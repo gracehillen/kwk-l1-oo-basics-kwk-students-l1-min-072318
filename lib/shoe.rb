@@ -10,4 +10,4 @@ class Shoe
 end
 
 Shoe.new("adidas")
-Shoe.new(:nike)
+Shoe.new(:Nike)
