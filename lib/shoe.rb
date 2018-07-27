@@ -1,6 +1,6 @@
 class Shoe
   attr_reader :adidas
-  attr_reader :nike
+  attr_reader :brand
   
   def initialize(adidas)
     @adidas = adidas
