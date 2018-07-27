@@ -7,5 +7,5 @@ class Shoe
 
 end
 
-Shoe.new("brand")
-Shoe.new("color")
+# Shoe.new("brand")
+# Shoe.new("color")
