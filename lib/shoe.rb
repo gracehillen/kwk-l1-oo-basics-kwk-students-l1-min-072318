@@ -1,6 +1,6 @@
 class Shoe
   attr_reader :adidas
-  attr_reader :Nike
+  attr_reader :nike
   
   def initialize(adidas)
     @adidas = adidas
@@ -10,4 +10,4 @@ class Shoe
 end
 
 Shoe.new("adidas")
-Shoe.new(:Nike)
+Shoe.new("nike")
