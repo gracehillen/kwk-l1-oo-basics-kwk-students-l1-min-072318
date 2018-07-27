@@ -6,8 +6,8 @@ class Shoe
     @adidas = adidas
   end
   
-  def 
+
 end
 
 Shoe.new("adidas")
-Shoe.new("nike")
+Shoe.new(:nike)
