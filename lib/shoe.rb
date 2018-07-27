@@ -1,5 +1,6 @@
 class Shoe
-  initialize 
+  def initialize 
+    
 end
 
 Shoe.new("Adidas")
