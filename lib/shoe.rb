@@ -5,9 +5,7 @@ class Shoe
   def initialize(adidas)
     @adidas = adidas
   end
-  def brand= (nike)
-    @nike = nike
+
 end
 
 Shoe.new("adidas")
-Shoe.new("nike")
