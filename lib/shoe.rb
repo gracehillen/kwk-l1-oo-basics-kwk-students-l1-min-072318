@@ -1,12 +1,12 @@
 class Shoe
   attr_reader :adidas
-  attr_accessor :Nike
+  attr_reader :Nike
   
   def initialize(adidas)
     @adidas = adidas
   end
-  def brand=
-
+  def brand= (nike)
+    @nike = nike
 end
 
 Shoe.new("adidas")
