@@ -9,4 +9,4 @@ class Shoe
 end
 
 Shoe.new("adidas")
-Shoe.brand = nike.capitalize
+Shoe.brand = nike
