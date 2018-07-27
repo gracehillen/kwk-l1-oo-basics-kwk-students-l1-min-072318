@@ -5,6 +5,9 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
+  def cobble
+    puts "Flipping the page...wow, you read fast!"
+  end 
 
 end
 
