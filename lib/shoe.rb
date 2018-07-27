@@ -1,7 +1,7 @@
 class Shoe
-  def initialize (:Adidas)
-    @Adidas = 
+  def initialize (:adidas)
+    @adidas = adidas
     
 end
 
-Shoe.new("Adidas")
+Shoe.new("adidas")
